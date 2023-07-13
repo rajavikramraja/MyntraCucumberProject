@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="24.367456">
+    <testcase classname="" name="_2" time="13.689345">
+        <system-out><![CDATA[Given To launch the Browser and maximize the window.........................passed
+When To launch the Myntra url...............................................passed
+And To Mouseover to the Search..............................................passed
+And To Search the "Tshirt"..................................................passed
+Then To close the entire browser............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="" name="_3" time="5.307623">
+        <system-out><![CDATA[Given To launch the Browser and maximize the window.........................passed
+When To launch the Myntra url...............................................passed
+And To Mouseover to the Search..............................................passed
+And To Search the "Pant"....................................................passed
+Then To close the entire browser............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="" name="_4" time="5.370488">
+        <system-out><![CDATA[Given To launch the Browser and maximize the window.........................passed
+When To launch the Myntra url...............................................passed
+And To Mouseover to the Search..............................................passed
+And To Search the "Shirt"...................................................passed
+Then To close the entire browser............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
